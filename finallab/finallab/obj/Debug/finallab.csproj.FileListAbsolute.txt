@@ -1,0 +1,2 @@
+C:\Users\test\Desktop\finallab\finallab\finallab\bin\Debug\finallab.exe.config
+C:\Users\test\Desktop\finallab\finallab\finallab\obj\Debug\finallab.csprojResolveAssemblyReference.cache
